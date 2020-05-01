@@ -1,6 +1,8 @@
 # hello-world
 gitHub tutorial excercise
 
+ir a [subcarpeta](https://github.com/EdoFro/hello-world/subcarpeta/)
+
 Esto es una prueba de como funciona GitHub en la práctica.
 
 Ahora voy a probar Markdown:
