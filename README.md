@@ -1,7 +1,7 @@
 # hello-world
 gitHub tutorial excercise
 
-ir a [subcarpeta1](https://github.com/EdoFro/hello-world/tree/agregando-Markdown/subcarpeta1)
+ir a [subcarpeta1](https://github.com/EdoFro/hello-world/subcarpeta1)
 
 Esto es una prueba de como funciona GitHub en la práctica.
 
