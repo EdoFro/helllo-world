@@ -1,6 +1,8 @@
 # explicación de esta carpeta
 
 etc. balablabla
+hice un gambio directamnte en GitHub
+
 
 ## Prueba a través de VSCode
 
